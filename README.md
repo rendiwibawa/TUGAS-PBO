@@ -1,34 +1,29 @@
 # TUGAS-PBO
 
 
+
 # LATIHAN 1
-
-
-![Alt Text](https://github.com/rendiwibawa/TUGAS-PBO/blob/master/JOBSHEETOOP.java)
-
-
-# LATIHAN 2
 
 
 ![ALt Text](https://github.com/rendiwibawa/TUGAS-PBO/blob/master/LATIHAN1.PNG)
 
 
 
-# LATIHAN 3
+# LATIHAN 2
 
 
 ![ALt Text](https://github.com/rendiwibawa/TUGAS-PBO/blob/master/LATIHAN2.PNG)
 
 
 
-# LATIHAN 4
+# LATIHAN 3
 
 
 ![ALt Text](https://github.com/rendiwibawa/TUGAS-PBO/blob/master/LATIHAN3.PNG)
 
 
 
-# LATIHAN 5
+# LATIHAN 4
 
 
 
@@ -36,7 +31,7 @@
 
 
 
-# LATIHAN 6
+# LATIHAN 5
 
 
 
